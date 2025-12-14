@@ -1,0 +1,21 @@
+# Java & IDE
+bin/
+out/
+target/
+*.class
+*.log
+.DS_Store
+
+# IDE configs
+.idea/
+.settings/
+.vscode/
+
+# Trae/Temp
+.trae/
+tmp/
+*.tmp
+
+# OS junk
+Thumbs.db
+
